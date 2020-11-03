@@ -15,6 +15,7 @@ int main(){
      ans = min( ans, abs(arr[1]-arr[n-1]));
      
      cout<<ans<<endl;
+     //helllo
      
      return 0;
 }
